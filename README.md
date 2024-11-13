@@ -37,7 +37,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Bienvenido a la Página Principal</h1>
+        <h1>Actividad 1, 2 y 3</h1>
         <a href="TARJETA_DE_PERFIL.html" class="button">Ir a Página 1</a>
         <a href="CAJAS.html" class="button">Ir a Página 2</a>
         <a href="ARTICULO.html" class="button">Ir a Página 3</a>
