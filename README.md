@@ -41,7 +41,6 @@
         <a href="TARJETA_DE_PERFIL.html" class="button">Ir a Página 1</a>
         <a href="CAJAS.html" class="button">Ir a Página 2</a>
         <a href="ARTICULO.html" class="button">Ir a Página 3</a>
-        <a href="Actividad_4.html" class="button">Ir a Página 3</a>
     </div>
 </body>
 </html>
